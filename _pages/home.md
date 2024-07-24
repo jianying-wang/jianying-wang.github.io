@@ -22,14 +22,14 @@ feature_row:
     url: "/bio/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/sand2.png
+  - image_path: /assets/images/sand4.png
     alt: "Interests"
     title: "Make it interesting"
     excerpt: "Life is too short to not make it interesting. What would you do to make it worth it?"
     url: "/interests/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/sand3.png
+  - image_path: /assets/images/sand5.png
     alt: "Projects"
     title: "Always exploring"
     excerpt: "For fun, for work, for family and community, you name it!"

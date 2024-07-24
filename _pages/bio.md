@@ -4,10 +4,12 @@ layout: single
 author_profile: true
 ---
 
-## This page is a brief biography of myself.
+## Bio 
 
-## Early Life
+This page is a brief biography of myself.
 
-## School
+### Early Life
 
-## Work
+### School
+
+### Work

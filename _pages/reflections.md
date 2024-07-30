@@ -17,4 +17,4 @@ In the late 1990s, China drastically restructured its state-owned enterprises, p
 
 Despite it looking like hardship, my family's economic background did not have much bearing on my growing up to the extent that I'm aware of. All around me people have similar backgrounds, so I didn't feel like I was any different from others. It was not until I was in graduate school in the U.S., when I was studying sociology, that I started to reflect on my family background and how it had impacted my life chances. Of course, it had a huge impact, but the exact impact all depended on what the control group is. Depending on which other variables are put into this multivariate function, I could be an outlier, or simply another data point on the predicted curve.
 
-[Read more ...](https://jianying-wang.github.io/about/) 
+[Read more ...](https://jianying-wang.github.io/posts/about_class/) 

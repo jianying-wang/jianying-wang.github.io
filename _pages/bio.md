@@ -39,7 +39,5 @@ Job:
 - Lecturer at University of Arkansas
 
 #### Here at Pacific NorthWest: *Seattle, Washington*
-
-
-LinkedIn profile: https://www.linkedin.com/in/jianying-wang-seattle/
+- LinkedIn profile: [https://www.linkedin.com/in/jianying-wang-seattle/](https://www.linkedin.com/in/jianying-wang-seattle/)
 

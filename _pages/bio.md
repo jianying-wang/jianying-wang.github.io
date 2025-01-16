@@ -27,8 +27,8 @@ School:
 #### To New England.: *New Haven, Connecticut*
 School:
 - Yale University
-- 
-#### To Midwest: *Chicago, Illinois*
+
+#### A short stay in Midwest: *Chicago, Illinois*
 Academic:
 - Write dissertation
 

@@ -5,4 +5,4 @@ layout: posts
 author_profile: true
 ---
 
-What happens if I add some texts.
+Write at the spur of the moment. That's what can keep the writing going.
